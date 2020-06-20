@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:0,SporTV HD
+http://maxptv.net:8080/beatriz/beatriz/49
+#EXTINF:0,SporTV SD
+http://maxptv.net:8080/beatriz/beatriz/48
+#EXTINF:0,SporTV2 HD
+http://maxptv.net:8080/beatriz/beatriz/47
+#EXTINF:0,SporTV2 SD
+http://maxptv.net:8080/beatriz/beatriz/46
+#EXTINF:0,SporTV3 HD
+http://maxptv.net:8080/beatriz/beatriz/45
+#EXTINF:0,SporTV3 SD
+http://maxptv.net:8080/beatriz/beatriz/44

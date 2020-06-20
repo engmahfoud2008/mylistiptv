@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 ,DIGI sport 1
+http://185.229.139.65:8010/play/digisport1/index.m3u8
+#EXTINF:-1 ,DIGI sport 2
+http://185.229.139.65:8010/play/digisport2/index.m3u8
+#EXTINF:-1 ,DIGI sport 4
+http://185.229.139.65:8010/play/digisport4/index.m3u8
+#EXTINF:-1 ,EuroSport 2 HD
+http://185.229.139.65:8010/play/eurposport2hd/index.m3u8
+#EXTINF:-1 ,DIGI sport 1HD
+http://185.229.139.65:8011/play/digisport1hd/index.m3u8
+#EXTINF:-1 ,DIGI sport 2HD
+http://185.229.139.65:8011/play/digisport2hd/index.m3u8
+#EXTINF:-1 ,DIGI sport 3HD
+http://185.229.139.65:8011/play/digisport3hd/index.m3u8
+#EXTINF:-1 ,DIGI sport 4HD
+http://185.229.139.65:8011/play/digisport4hd/index.m3u8
+#EXTINF:-1 ,Dorcel HD
+http://185.229.139.65:8011/play/dorcelhd/index.m3u8
+#EXTINF:-1 ,Redlight HD
+http://185.229.139.65:8011/play/redlighthd/index.m3u8
+#EXTINF:-1 ,Fashion HD
+http://185.229.139.65:8013/play/fashionhd/index.m3u8
+#EXTINF:-1 ,Karusel Int
+http://185.229.139.65:8013/play/karusel/index.m3u8
+#EXTINF:-1 ,Sport 1 HD
+http://185.229.139.65:8013/play/sport1hd/index.m3u8
+#EXTINF:-1 ,Sport 2 HD
+http://185.229.139.65:8013/play/sport2hd/index.m3u8
+#EXTINF:-1 ,Sport 3 HD
+http://185.229.139.65:8013/play/sport3hd/index.m3u8
+#EXTINF:-1 ,SPORTS 1
+http://185.229.139.65:8010/play/beinsports1/index.m3u8
+#EXTINF:-1 ,SPORTS 2
+http://185.229.139.65:8010/play/beinsports2/index.m3u8
+#EXTINF:-1 ,SPORTS 3
+http://185.229.139.65:8010/play/beinsports3/index.m3u8
+#EXTINF:-1 ,SPORTS 4
+http://185.229.139.65:8010/play/beinsports4/index.m3u8
+#EXTINF:-1 ,Test Sport Ru HD
+http://185.229.139.65:8013/play/testsportruhd/index.m3u8

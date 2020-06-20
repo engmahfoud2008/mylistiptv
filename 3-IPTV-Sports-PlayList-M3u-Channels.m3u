@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:0,restreaml Bein HD1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/1
+#EXTINF:0,restreaml Bein HD2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/2
+#EXTINF:0,restreaml Bein HD3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/3
+#EXTINF:0,restreaml Bein HD4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/4
+#EXTINF:0,RESTREAML BEIN HD5
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/5
+#EXTINF:0,RESTREAML BEIN HD6
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/6
+#EXTINF:0,Restreaml Bein SD1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/7
+#EXTINF:0,Restreaml Bein SD2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/8
+#EXTINF:0,Restreaml Bein SD3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/9
+#EXTINF:0,Restreaml Bein SD4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/10
+#EXTINF:0,RESTREAML BEIN SD5
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/11
+#EXTINF:0,RESTREAML BEIN SD6
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/12
+#EXTINF:0,Bein Sport News
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/13
+#EXTINF:0,bein low-1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/14
+#EXTINF:0,bein low-2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/15
+#EXTINF:0,bein low-3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/16
+#EXTINF:0,bein low-4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/17
+#EXTINF:0,bein low-5
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/18
+#EXTINF:0,bein low-6
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/19
+#EXTINF:0,bein low-7
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/20
+#EXTINF:0,bein low-8
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/21
+#EXTINF:0,bein low-9
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/22
+#EXTINF:0,on sport
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/67
+#EXTINF:0,ad sport 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/81
+#EXTINF:0,KSA Sport 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/86
+#EXTINF:0,KSA Sport 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/87
+#EXTINF:0,FR: RMC Sport 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/127
+#EXTINF:0,FR: RMC Sport 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/128
+#EXTINF:0,FR: RMC Sport 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/129
+#EXTINF:0,FR: RMC Sport 4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/130
+#EXTINF:0,Canal Sport
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://62.210.181.164:7777/newyacinetv202/newyacinetv202/163
